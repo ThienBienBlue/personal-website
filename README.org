@@ -1,0 +1,20 @@
+* My Personal Website
+** Why?
+It's an experiment to
+- Get used to GNU Emacs (version >= 28.1)
+- Org mode
+- Basic webstack, i.e. HTML, CSS, Javascript
+
+** TODO
+Site Navigation
+- [ ] Home/landing page
+- [ ] Previous work
+- [ ] Bio + Contact information (Email for now)
+- [ ] Experience + Education
+
+Theming
+- [ ] Probably Black, White, and Grey as the dominant colors.
+  Either Purple or Green sparingly as the complementary colors.
+- [ ] Take inspiration from Millennium Actress for coloring.
+  Something VERY monochrome in the lighter region and also spare use of colors.
+
